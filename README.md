@@ -1,6 +1,6 @@
 <p align="center"> <img height="150" src="https://raw.githubusercontent.com/tronfy/lunar-pink/main/icon.png"> </p>
 
-<h1 align="center"> Lunar Pink </h1>
+<h1 align="center"> Lunar Pink da NamiTLL</h1>
 
 <p align="center"><strong>
  A vibrantly colored theme for VSCode

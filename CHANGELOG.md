@@ -1,4 +1,7 @@
 # Changelog
+## [1.4.0] - 2025-10-03
+- Status bar pink
+- Differentiates sidebar from the rest
 
 ## [1.3.0] - 2022-07-30
 - Brighter yellows
